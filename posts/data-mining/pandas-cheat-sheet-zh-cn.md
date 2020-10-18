@@ -29,7 +29,7 @@ Pandas的[英文文档](https://pandas.pydata.org/pandas-docs/stable/)内容过�
 - 绘图(Pilot)
 - ...
 
-参考[Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)，[极客兔兔](https://github.com/geektutu)于2019年6月16日翻译了中文版，如有错误，可以直接在评论区评论。
+参考[Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)，[枫之叶](https://github.com/geektutu)于2019年6月16日翻译了中文版，如有错误，可以直接在评论区评论。
 
 ## 效果图
 

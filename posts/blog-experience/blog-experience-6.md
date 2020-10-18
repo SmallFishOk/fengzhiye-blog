@@ -1,7 +1,7 @@
 ---
 title: 博客折腾记(六) - 不要为了流量忘记了初心
 date: 2019-08-14 00:16:00
-description: 极客兔兔(Geektutu)的博客折腾记的第六篇，不要为了流量忘记了初心。
+description: 枫之叶(Geektutu)的博客折腾记的第六篇，不要为了流量忘记了初心。
 keywords:
 - 独立博客
 tags:

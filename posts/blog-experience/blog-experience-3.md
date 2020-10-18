@@ -1,7 +1,7 @@
 ---
 title: 博客折腾记(三) - 主题设计、彩蛋与阅读量翻倍
 date: 2019-06-23 11:48:00
-description: 极客兔兔(Geektutu)的博客折腾记的第三篇，Hexo主题改版与提高人均阅读量的一些思考。
+description: 枫之叶(Geektutu)的博客折腾记的第三篇，Hexo主题改版与提高人均阅读量的一些思考。
 keywords:
 - 独立博客
 - 阅读量

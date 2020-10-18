@@ -1,7 +1,7 @@
 ---
 title: 留言板
-date: 2017-07-03 11:51:24
-description: 极客兔兔的小站，致力于分享一些技术教程和有趣的技术实践。
+date: 2020-10-18 11:45:01
+description: 枫之叶的小站，致力于分享一些技术教程和有趣的技术实践。
 tags:
 - 关于我
 image: post/about/leave_a_msg.gif
@@ -9,11 +9,11 @@ image: post/about/leave_a_msg.gif
 
 ## 本站介绍
 
-极客兔兔的小站，致力于分享一些技术教程和有趣的技术实践，主要以 Python 相关的技术为主。
+枫之叶的小站，致力于分享一些技术教程和有趣的技术实践，主要以 Python 相关的技术为主。
 
 对本站的任何问题都可以直接在文章下进行评论。
 
-也可以通过[gzdaijie@gmail.com](mailto:极客兔兔<gzdaijie@gmail.com>?subject=【来自】极客兔兔的博客)联系我。
+也可以通过[gzdaijie@gmail.com](mailto:枫之叶<gzdaijie@gmail.com>?subject=【来自】枫之叶的博客)联系我。
 
 为了节省双方的宝贵时间，作如下几点声明：
 

@@ -2,19 +2,19 @@
 ## Docs: https://hexo.io/docs/configuration.html
 
 # Site
-title: 极客兔兔
-keyword: geektutu,jiketutu,Go语言,golang,python
-description: 极客兔兔的博客，致力于分享一些技术教程和有趣的技术实践，包括但不限于 Go 语言/golang, Python, tensorflow, 分布式, 机器学习相关的内容。也可以通过搜索极客小站,jiketutu 找到我。
-author: 极客兔兔
+title: 枫之叶
+keyword: 枫之叶,python
+description: 枫之叶的博客
+author: 枫之叶
 language: zh-CN
 
-url: https://geektutu.com	
+url: http://www.fengzhiye.cn	
 root: /
 permalink: post/:title.html
 
 # seo优化各个浏览器的验证信息
-beian: 沪ICP备18001798号-1
-seo_title: 极客兔兔 # 子页面的后缀，效果： 关于我 | 极客兔兔，如果与title一致，则可以不设置
+beian: 浙ICP备15020126号-1
+seo_title: 枫之叶 # 子页面的后缀，效果： 关于我 | 枫之叶，如果与title一致，则可以不设置
 seo:
   google_site_verification: X31OY0d2sKImNbS2x8-OpITWRK4nn7nZCcXe3_hA9ew
   baidu_site_verification: p7Pz3jlx4t

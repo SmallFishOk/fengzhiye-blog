@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2017-07-03 11:51:24
-description: 极客兔兔的友情链接
+description: 枫之叶的友情链接
 tags:
 - 友链
 image: post/link/link.png
@@ -44,7 +44,7 @@ image: post/link/link.png
 > 本站文章均为原创，要求互换友链的你，也是原创博主。
 > 拒绝和聚合站、采集站、转载站做朋友。
 > 格式：
-> 站点名称：极客兔兔
+> 站点名称：枫之叶
 > 站点描述：致力于分享有趣的技术实践（30字左右，太长一行显示不下）
 > 站点地址：https://geektutu.com
 > 已加友链：https://geektutu.com/post/link.html

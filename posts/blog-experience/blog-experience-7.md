@@ -1,7 +1,7 @@
 ---
 title: 博客折腾记(七) - Gitalk Plus
 date: 2019-08-23 20:00:00
-description: 极客兔兔(Geektutu)的博客折腾记的第七篇，模仿disqus的 SEE ALSO ON <blog> 功能，为静态博客添加“显示本站其他文章评论”的功能，完善内链。
+description: 枫之叶(Geektutu)的博客折腾记的第七篇，模仿disqus的 SEE ALSO ON <blog> 功能，为静态博客添加“显示本站其他文章评论”的功能，完善内链。
 keywords:
 - 独立博客
 tags:
